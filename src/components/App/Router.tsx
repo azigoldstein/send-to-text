@@ -3,7 +3,6 @@ import { Route, Switch } from 'react-router-dom'
 import App from './App'
 import '../../assets/CSS/_globals.scss'
 
-
 const Router = () => {
     return (
         <Switch>
